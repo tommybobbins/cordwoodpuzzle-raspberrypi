@@ -3,6 +3,7 @@ cordwoodpuzzle-raspberrypi
 
 Use Boldport's Cordwood puzzle with the GPIO pins on a Raspberry Pi.
 
+I failed to photograph the 2nd green LED lit - but it does!:
 ![Cordwood Puzzle working from RPi](cordwood.gif)
 
 Do not use with 5V as the GPIO pins are unprotected. Switch off the Raspberry Pi to prevent damage to the pins while connecting.
