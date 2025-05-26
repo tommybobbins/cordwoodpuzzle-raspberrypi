@@ -20,3 +20,4 @@ Download the script and run it:
     $ sudo python ./puzzle.py
 
 tng 1-May-2014
+tng 26-May-2025 - Added gpiozero
